@@ -1,0 +1,44 @@
+# AUSAlib version: 17.1
+# Calibrator version: 2.0
+# Calibrator arguments: Calibrator --gui -r 1 -k ISOLDE4a_MAINPEAKS.json -s setup/setup.json -d U4
+# Input files: 
+#	4acalib.root
+# Calibration of U4
+# Performed @ 2024-05-31 17:27
+# Performed by jeppe on jeppe-ThinkPad-T14-Gen-4
+# Front
+-33.5126 2.02113
+-34.0401 2.04305
+-38.8792 2.06422
+-32.8607 2.09376
+-38.455 2.03191
+-6.02223 2.03973
+-27.5173 2.07954
+-37.2873 2.08298
+-30.5959 2.13255
+-22.7389 2.12749
+# Slope or offset was either NaN or Inf and has been set to 0.0!
+0.0 0.0
+-5.72854 2.11811
+7.10161 2.09206
+1.81584 8.19676
+-0.96579 2.10211
+# Slope or offset was either NaN or Inf and has been set to 0.0!
+0.0 0.0
+# Back
+-25.5063 2.0653
+-35.8114 2.12213
+-27.7204 2.07629
+-37.7009 2.08488
+-36.3957 2.13013
+-29.8013 2.12374
+-37.8966 2.14784
+-27.3944 2.09043
+-35.4076 2.10381
+-29.9971 2.13264
+-23.903 2.09236
+-34.2554 2.1316
+-26.3986 2.11491
+-33.0863 2.14565
+-22.7975 2.13309
+-14.5661 2.11133

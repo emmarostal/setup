@@ -1,0 +1,5 @@
+{
+  "type" : "SiPM",
+  "nSegments" : 2,
+  "walkFile" : "walkParams.txt"
+}

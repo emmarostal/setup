@@ -1,0 +1,8 @@
+{
+  "type" : "INDiE",
+  "nSegments" : 2,
+  "speedFile" : "speedOfLight.txt",
+  "leftIndex" : 1,
+  "rightIndex" : 0,
+  "walkFile" : "walkParams.txt"
+}

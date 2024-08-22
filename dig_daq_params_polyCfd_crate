@@ -1,0 +1,60 @@
+Beta -baselineIntegrationLimit=25 -baselineStdCut=25 -prominenceDistance=40 -prominenceThreshold=0.5
+INDiE -baselineIntegrationLimit=25 -baselineStdCut=100 -prominenceDistance=6 -prominenceThreshold=0.5
+0	0	0	0	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+1	0	0	1	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+2	0	0	2	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+3	0	0	3	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+4	0	0	4	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+5	0	0	5	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+6	0	0	6	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+7	0	0	7	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+8	0	0	8	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+9	0	0	9	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+10	0	0	10	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+11	0	0	11	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+12	0	0	12	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+13	0	0	13	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+14	0	0	14	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+15	0	0	15	Beta	-usecfd=true	-FL=8	-FG=0	-D=4	-w=5.00000e-01
+0	0	1	0	INDiE	-usePolyCfd=true	-w=0.540000
+1	0	1	1	INDiE	-usePolyCfd=true	-w=0.540000
+2	0	1	2	INDiE	-usePolyCfd=true	-w=0.540000
+3	0	1	3	INDiE	-usePolyCfd=true	-w=0.540000
+4	0	1	4	INDiE	-usePolyCfd=true	-w=0.540000
+5	0	1	5	INDiE	-usePolyCfd=true	-w=0.540000
+6	0	1	6	INDiE	-usePolyCfd=true	-w=0.540000
+7	0	1	7	INDiE	-usePolyCfd=true	-w=0.540000
+8	0	1	8	INDiE	-usePolyCfd=true	-w=0.540000
+9	0	1	9	INDiE	-usePolyCfd=true	-w=0.540000
+10	0	1	10	INDiE	-usePolyCfd=true	-w=0.540000
+11	0	1	11	INDiE	-usePolyCfd=true	-w=0.540000
+12	0	1	12	INDiE	-usePolyCfd=true	-w=0.540000
+13	0	1	13	INDiE	-usePolyCfd=true	-w=0.540000
+14	0	3	14	INDiE	-usePolyCfd=true	-w=0.540000
+15	0	3	15	INDiE	-usePolyCfd=true	-w=0.540000
+16	0	2	0	INDiE	-usePolyCfd=true	-w=0.540000
+17	0	2	1	INDiE	-usePolyCfd=true	-w=0.540000
+18	0	2	2	INDiE	-usePolyCfd=true	-w=0.540000
+19	0	2	3	INDiE	-usePolyCfd=true	-w=0.540000
+20	0	2	4	INDiE	-usePolyCfd=true	-w=0.540000
+21	0	2	5	INDiE	-usePolyCfd=true	-w=0.540000
+22	0	2	6	INDiE	-usePolyCfd=true	-w=0.540000
+23	0	2	7	INDiE	-usePolyCfd=true	-w=0.540000
+24	0	2	8	INDiE	-usePolyCfd=true	-w=0.540000
+25	0	2	9	INDiE	-usePolyCfd=true	-w=0.540000
+26	0	2	10	INDiE	-usePolyCfd=true	-w=0.540000
+27	0	2	11	INDiE	-usePolyCfd=true	-w=0.540000
+28	0	2	12	INDiE	-usePolyCfd=true	-w=0.540000
+29	0	2	13	INDiE	-usePolyCfd=true	-w=0.540000
+30	0	2	14	INDiE	-usePolyCfd=true	-w=0.540000
+31	0	2	15	INDiE	-usePolyCfd=true	-w=0.540000
+32	0	3	0	INDiE	-usePolyCfd=true	-w=0.540000
+33	0	3	1	INDiE	-usePolyCfd=true	-w=0.540000
+34	0	3	2	INDiE	-usePolyCfd=true	-w=0.540000
+35	0	3	3	INDiE	-usePolyCfd=true	-w=0.540000
+36	0	3	4	INDiE	-usePolyCfd=true	-w=0.540000
+37	0	3	5	INDiE	-usePolyCfd=true	-w=0.540000
+38	0	3	6	INDiE	-usePolyCfd=true	-w=0.540000
+39	0	3	7	INDiE	-usePolyCfd=true	-w=0.540000
+40	0	3	8	INDiE	-usePolyCfd=true	-w=0.540000
+41	0	3	9	INDiE	-usePolyCfd=true	-w=0.540000

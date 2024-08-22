@@ -1,0 +1,12 @@
+{
+  "center" : {"x":"0mm", "y":"0mm", "z":"0mm"},
+  "orientation" : {"x":"0mm", "y":"1mm", "z":"0mm"},
+  "normal" : {"x":"0mm", "y":"0mm", "z":"-1mm"},
+  "transverseLength" : "8mm",
+  "upLength" : "8mm",
+
+  "layers" : [
+    {"material" : "Carbon", "thickness" : "475 nm"}
+  ]
+}
+

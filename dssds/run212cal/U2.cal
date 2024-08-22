@@ -1,0 +1,44 @@
+# AUSAlib version: 17.1
+# Calibrator version: 2.0
+# Calibrator arguments: Calibrator --gui --eloss --low-threshold 200 -r 1 -b 13 -d U2 -k ISOLDE4a_MAINPEAKS.json
+# Input files: 
+#	run_212.root
+# Calibration of U2
+# Performed @ 2024-04-03 09:57
+# Performed by jeppe on jeppe-ThinkPad-T14-Gen-4
+# Front
+-12.7917 0.981188
+-17.9141 1.00638
+-15.165 1.01031
+-11.6997 1.02537
+-11.8047 0.961139
+-7.87505 1.02851
+4.90852e+10 -9.58326e+07
+-8.33759 1.01513
+-4.65612 1.02068
+-8.69763 0.992043
+# Slope or offset was either NaN or Inf and has been set to 0.0!
+0.0 0.0
+12.8757 0.940008
+22.0151 0.994975
+29.1131 1.00168
+36.3741 1.02356
+84.6808 1.05462
+# Back
+# Slope or offset was either NaN or Inf and has been set to 0.0!
+0.0 0.0
+-20.1284 1.02871
+-24.5677 0.980839
+-22.1215 1.00568
+-14.9984 0.992849
+-18.9677 0.975971
+-16.3247 0.976858
+-21.635 1.02849
+-14.7926 0.997861
+-16.1936 0.990629
+-12.2788 1.01084
+-14.5112 1.03029
+-11.5971 0.981835
+-12.2735 1.04546
+-17.8299 0.898781
+-6.47313e+13 1.29478e+14

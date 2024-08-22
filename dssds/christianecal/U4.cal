@@ -1,0 +1,45 @@
+# AUSAlib version: 17.1
+# Calibrator version: 2.0
+# Calibrator arguments: Calibrator -s setup/setup.json -k setup/calibration/4a_simple.json -r 2 -b 13 -d U4 --gui
+# Input files: 
+#	data/unpacked/Run032.root
+# Calibration of U4
+# Performed @ 2022-06-07 17:43
+# Performed by erik on susics
+# Front
+27.3889 0.961618
+25.5408 0.989074
+29.1846 0.986056
+27.7198 0.980824
+28.3529 0.981774
+26.2535 1.03532
+30.1018 1.037
+29.8108 0.976274
+32.8784 1.00225
+38.8887 1.07448
+34.0435 0.968314
+35.364 1.00793
+39.6467 1.00125
+46.2225 0.986914
+51.4407 1.04825
+6.21671e+10 -1.27042e+07
+# Back
+40.728 0.995018
+46.9344 0.963391
+# Slope or offset was either NaN or Inf and has been set to 0.0!
+0.0 0.0
+42.1074 1.01168
+39.8701 1.00491
+# Slope or offset was either NaN or Inf and has been set to 0.0!
+0.0 0.0
+# Slope or offset was either NaN or Inf and has been set to 0.0!
+0.0 0.0
+39.5745 1.02219
+33.7328 1.00165
+38.1699 1.01583
+33.047 1.01152
+39.9761 0.981803
+1.50229e+10 -3.15159e+06
+38.0911 1.00275
+41.5735 1.00864
+56.1945 0.99669

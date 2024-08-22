@@ -1,0 +1,36 @@
+{
+  "normal": {
+    "x": "0 mm",
+    "y": "0 mm",
+    "z": "1 mm"
+  },
+  "position": {
+    "x": "0 mm",
+    "y": "0 mm",
+    "z": "0 mm"
+  },
+  "thickness" : "0 mm",
+  "transverse_size" : "0 mm",
+  "isotopes" : [
+    {
+      "name": "148Gd",
+      "energies" : [3182.690],
+      "intensities" : [1.0]
+    },
+    {
+      "name": "239Pu",
+      "energies" : [5105.5, 5144.3, 5156.59],
+      "intensities" : [0.1194, 0.1711, 0.7077]
+    },
+    {
+      "name": "241Am",
+      "energies" : [5388, 5442.80, 5485.56],
+      "intensities" : [0.0166, 0.131, 0.848]
+    },
+    {
+      "name": "244Cm",
+      "energies" : [5762.64, 5804.77],
+      "intensities" : [0.231, 0.769]
+    }
+  ]
+}

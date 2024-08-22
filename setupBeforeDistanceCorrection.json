@@ -1,0 +1,1048 @@
+{
+  "name": "is659",
+  "detectors": [
+    {
+      "name": "U1",
+      "file": "dssds/U1.json",
+      "calibration": "dssds/U1.cal",
+      "position": {
+        "x": "-29.61 mm",
+        "y": "-7.75 mm",
+        "z": "-29.61 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "0 mm",
+        "z": "1 mm"
+      },
+      "orientation": {
+        "x": "0 mm",
+        "y": "-1 mm",
+        "z": "0 mm"
+      },
+      "frontMapping": {
+        "prefix": "U1F",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      },
+      "backMapping": {
+        "prefix": "U1B",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "U2",
+      "file": "dssds/U2.json",
+      "calibration": "dssds/U2.cal",
+      "position": {
+        "x": "-29.6 mm",
+        "y": "-7.75 mm",
+        "z": "29.6 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "0 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "0 mm",
+        "y": "-1 mm",
+        "z": "0 mm"
+      },
+      "frontMapping": {
+        "prefix": "U2F",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      },
+      "backMapping": {
+        "prefix": "U2B",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "U3",
+      "file": "dssds/U3.json",
+      "calibration": "dssds/U3.cal",
+      "position": {
+        "x": "29.61 mm",
+        "y": "-7.75 mm",
+        "z": "29.61 mm"
+      },
+      "normal": {
+        "x": "-1 mm",
+        "y": "0 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "0 mm",
+        "y": "-1 mm",
+        "z": "0 mm"
+      },
+      "frontMapping": {
+        "prefix": "U3F",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      },
+      "backMapping": {
+        "prefix": "U3B",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "U4",
+      "file": "dssds/U4.json",
+      "calibration": "dssds/U4.cal",
+      "position": {
+        "x": "29.6 mm",
+        "y": "-7.75 mm",
+        "z": "-29.6 mm"
+      },
+      "normal": {
+        "x": "-1 mm",
+        "y": "0 mm",
+        "z": "1 mm"
+      },
+      "orientation": {
+        "x": "0 mm",
+        "y": "-1 mm",
+        "z": "0 mm"
+      },
+      "frontMapping": {
+        "prefix": "U4F",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      },
+      "backMapping": {
+        "prefix": "U4B",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "B1",
+      "file": "plastics/B1.json",
+      "position": {
+        "x": "-33.83 mm",
+        "y": "-1.182 mm",
+        "z": "-32.49 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "0 mm",
+        "z": "1 mm"
+      },
+      "orientation": {
+        "x": "0 mm",
+        "y": "1 mm",
+        "z": "0 mm"
+      },
+      "mapping": {
+	"prefix": "B1",
+        "tdc": "_T",
+	"multiplicity": "",
+	"segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "B1S",
+      "file": "plastics/B1S.json",
+      "position": {
+        "x": "-33.83 mm",
+        "y": "-1.182 mm",
+        "z": "-32.49 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "0 mm",
+        "z": "1 mm"
+      },
+      "orientation": {
+        "x": "0 mm",
+        "y": "1 mm",
+        "z": "0 mm"
+      },
+      "mapping": {
+	"prefix": "B1S",
+        "tdc": "_T",
+	"multiplicity": "",
+	"segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "B2",
+      "file": "plastics/B2.json",
+      "position": {
+        "x": "-31.32 mm",
+        "y": "1.094 mm",
+        "z": "34.43 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "0 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "0 mm",
+        "y": "1 mm",
+        "z": "0 mm"
+      },
+      "mapping": {
+        "prefix": "B2",
+	 "tdc": "_T",
+	 "multiplicity": "",
+	 "segment": "I",
+	 "adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "B2S",
+      "file": "plastics/B2S.json",
+      "position": {
+        "x": "-31.32 mm",
+        "y": "1.094 mm",
+        "z": "34.43 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "0 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "0 mm",
+        "y": "1 mm",
+        "z": "0 mm"
+      },
+      "mapping": {
+        "prefix": "B2S",
+	 "tdc": "_T",
+	 "multiplicity": "",
+	 "segment": "I",
+	 "adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "B3",
+      "file": "plastics/B3.json",
+      "position": {
+        "x": "32.65 mm",
+        "y": "0.502 mm",
+        "z": "33.50 mm"
+      },
+      "normal": {
+        "x": "-1 mm",
+        "y": "0 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "0 mm",
+        "y": "1 mm",
+        "z": "0 mm"
+      },
+      "mapping": {
+        "prefix": "B3",
+	"tdc": "_T",
+        "multiplicity": "",
+	"segment": "I",
+	"adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "B3S",
+      "file": "plastics/B3S.json",
+      "position": {
+        "x": "32.65 mm",
+        "y": "0.502 mm",
+        "z": "33.50 mm"
+      },
+      "normal": {
+        "x": "-1 mm",
+        "y": "0 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "0 mm",
+        "y": "1 mm",
+        "z": "0 mm"
+      },
+      "mapping": {
+        "prefix": "B3S",
+	"tdc": "_T",
+        "multiplicity": "",
+	"segment": "I",
+	"adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "B4",
+      "file": "plastics/B4.json",
+      "position": {
+        "x": "32.65 mm",
+        "y": "0.502 mm",
+        "z": "33.50 mm"
+      },
+      "normal": {
+        "x": "-1 mm",
+        "y": "0 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "0 mm",
+        "y": "1 mm",
+        "z": "0 mm"
+      },
+      "mapping": {
+        "prefix": "B4",
+	"tdc": "_T",
+	"multiplicity": "",
+	"segment": "I",
+	"adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "B4S",
+      "file": "plastics/B4S.json",
+      "position": {
+        "x": "32.65 mm",
+        "y": "0.502 mm",
+        "z": "33.50 mm"
+      },
+      "normal": {
+        "x": "-1 mm",
+        "y": "0 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "0 mm",
+        "y": "1 mm",
+        "z": "0 mm"
+      },
+      "mapping": {
+        "prefix": "B4S",
+	"tdc": "_T",
+	"multiplicity": "",
+	"segment": "I",
+	"adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "C1",
+      "file": "clovers/C1.json",
+      "calibration": "clovers/C1.cal",
+      "position": {
+        "x": "-57.73 mm",
+        "y": "57.73 mm",
+        "z": "57.73 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "-1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "1 mm",
+        "y": "sqrt(2) mm",
+        "z": "-1 mm"
+      },
+      "mapping": {
+        "prefix": "C1",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "C2",
+      "file": "clovers/C2.json",
+      "calibration": "clovers/C2.cal",
+      "position": {
+        "x": "57.73 mm",
+        "y": "57.73 mm",
+        "z": "57.73 mm"
+      },
+      "normal": {
+        "x": "-1 mm",
+        "y": "-1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "-1 mm"
+      },
+      "mapping": {
+        "prefix": "C2",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "C3",
+      "file": "clovers/C3.json",
+      "calibration": "clovers/C3.cal",
+      "position": {
+        "x": "-57.73 mm",
+        "y": "-57.73 mm",
+        "z": "57.73 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "C3",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      }
+    },
+    {
+      "name": "C4",
+      "file": "clovers/C4.json",
+      "calibration": "clovers/C4.cal",
+      "position": {
+        "x": "57.73 mm",
+        "y": "-57.73 mm",
+        "z": "57.73 mm"
+      },
+      "normal": {
+        "x": "-1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "C4",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      }
+    },
+      {
+      "name": "I2",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "749.596 mm",
+        "z": "656.769 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I2",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+      }
+    },
+            {
+      "name": "I3",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "701.985 mm",
+        "z": "707.809 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I3",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+          {
+      "name": "I4",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "650.929 mm",
+        "z": "755.403 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I4",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I5",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "582.646 mm",
+        "z": "809.699 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I5",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I6",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "524.773 mm",
+        "z": "848.72 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I6",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I7",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "464.319 mm",
+        "z": "883.609 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I7",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I8",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "401.579 mm",
+        "z": "914.196 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I8",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I9",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "320.405 mm",
+        "z": "946.155 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I9",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I10",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "253.652 mm",
+        "z": "966.55 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I10",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I11",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "185.639 mm",
+        "z": "982.24 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I11",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I12",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "116.698 mm",
+        "z": "993.147 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I12",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I13",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "30.072 mm",
+        "z": "999.965 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I13",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I14",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "-29.727 mm",
+        "z": "999.977 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I14",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I15",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "-116.698 mm",
+        "z": "993.147 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I15",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I16",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "-185.639 mm",
+        "z": "982.24 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I16",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I17",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "-253.652 mm",
+        "z": "966.55 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I17",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I18",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "-320.404 mm",
+        "z": "946.155 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I18",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I19",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "-401.579 mm",
+        "z": "914.196 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I19",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I20",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "-464.319 mm",
+        "z": "883.609 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I20",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+                  {
+      "name": "I21",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "-524.772 mm",
+        "z": "848.72 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I21",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      },
+      {
+      "name": "I22",
+      "file": "indie/I.json",
+      "position": {
+        "x": "0 mm",
+        "y": "-582.645 mm",
+        "z": "809.599 mm"
+      },
+      "normal": {
+        "x": "1 mm",
+        "y": "1 mm",
+        "z": "-1 mm"
+      },
+      "orientation": {
+        "x": "-1 mm",
+        "y": "sqrt(2) mm",
+        "z": "1 mm"
+      },
+      "mapping": {
+        "prefix": "I22",
+        "tdc": "_T",
+        "multiplicity": "",
+        "segment": "I",
+        "adc": "_E",
+        "flag": "_F"
+        }
+      }
+  ],
+  "signals": [
+    "TPROTONS",
+    "TSTAMP"
+  ]
+}
