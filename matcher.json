@@ -2,48 +2,40 @@
   "DSD" : {
     "__GLOBAL__" : {
       "tolerance" : 400,
-      "low_cut" : 50,
+      "low_cut" : 100,
 	"tdc_multiplier" : 1
     },
     "U1" : {
       "front" : {
-        "disable" : [],
-        "tdc_offset": "TDC/TDC_U1F.dat"
+        "disable" : []
       },
       "back" : {
-        "disable" : [],
-        "tdc_offset": "TDC/TDC_U1B.dat"
+        "disable" : []
       }
     },
     "U2" : {
       "front" : {
-        "disable" : [],
-        "tdc_offset": "TDC/TDC_U2F.dat"
+        "disable" : []
       },
       "back" : {
-        "disable" : [],
-        "tdc_offset": "TDC/TDC_U2B.dat"
+        "disable" : []
       }
     },
     "U3" : {
       "tolerance" : 100000,
       "front" : {
-        "disable" : [],
-        "tdc_offset": "TDC/TDC_U3F.dat"
+        "disable" : []
       },
       "back" : {
-        "disable" : [],
-        "tdc_offset": "TDC/TDC_U3B.dat"
+        "disable" : []
       }
     },
     "U4" : {
       "front" : {
-        "disable" : [],
-        "tdc_offset": "TDC/TDC_U4F.dat"
+        "disable" : []
       },
       "back" : {
-        "disable" : [],
-        "tdc_offset": "TDC/TDC_U4B.dat"
+        "disable" : []
       }
     }
   },

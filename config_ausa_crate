@@ -2,17 +2,18 @@ runName    /media/jeppe/2TB/RAW/run_
 timegate   500
 cs-tac     0
 pair-tac   0
-reftype    38
+reftype    42
+reftype2   43
 flagtype   0
 ref_unit   1 us
-run_unit   1 s
+run_unit   1 us
 Format     ausa
 Fold       1
 Traces     0
 OnlyCoin   0
 calFile    asd
 digDaqFile dig_daq_params_polyCfd_crate
-outputName /media/jeppe/2TB/unpackedAUSA/run_
+outputName /media/jeppe/2TB2/unpackedAUSAmul/run_
 
 |Index		|Type   |Crate		|Mod		|Chan	|Delay      |Link		|Start		|Stop     |Comment
 1	1	0	1	0	0	0	0	0	I2

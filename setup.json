@@ -657,7 +657,7 @@
         "flag": "_F"
         }
       },
-                  {
+                        {
       "name": "I10",
       "file": "indie/I.json",
       "position": {"x": " 0mm ", "y": "260.081 mm ", "z": "991.049 mm "},
@@ -959,6 +959,7 @@
   ],
   "signals": [
     "TPROTONS",
-    "TSTAMP"
+    "TSTAMP",
+    "TBGON"
   ]
 }
