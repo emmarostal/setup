@@ -6,9 +6,9 @@
       "file": "dssds/U1.json",
       "calibration": "dssds/U1.cal",
       "position": {
-        "x": "-29.61 mm",
-        "y": "-7.75 mm",
-        "z": "-29.61 mm"
+        "x": "-24.2979 mm",
+        "y": "2.12534 mm",
+        "z": "-27.8163 mm"
       },
       "normal": {
         "x": "1 mm",
@@ -42,9 +42,9 @@
       "file": "dssds/U2.json",
       "calibration": "dssds/U2.cal",
       "position": {
-        "x": "-29.6 mm",
-        "y": "-7.75 mm",
-        "z": "29.6 mm"
+        "x": "-28.6098 mm",
+        "y": "2.17693 mm",
+        "z": "29.7791 mm"
       },
       "normal": {
         "x": "1 mm",
@@ -78,9 +78,9 @@
       "file": "dssds/U3.json",
       "calibration": "dssds/U3.cal",
       "position": {
-        "x": "29.61 mm",
-        "y": "-7.75 mm",
-        "z": "29.61 mm"
+        "x": "26.4388 mm",
+        "y": "1.65455 mm",
+        "z": "28.1006 mm"
       },
       "normal": {
         "x": "-1 mm",
@@ -114,9 +114,9 @@
       "file": "dssds/U4.json",
       "calibration": "dssds/U4.cal",
       "position": {
-        "x": "29.6 mm",
-        "y": "-7.75 mm",
-        "z": "-29.6 mm"
+        "x": "27.4742 mm",
+        "y": "1.01474 mm",
+        "z": "-26.4608 mm"
       },
       "normal": {
         "x": "-1 mm",

@@ -7,27 +7,28 @@
     },
     "U1" : {
       "front" : {
-        "disable" : []
+        "disable" : [3,5,7,11]
       },
       "back" : {
-        "disable" : []
+        "disable" : [8,10]
       }
     },
     "U2" : {
       "front" : {
-        "disable" : []
+        "disable" : [5,7,11]
       },
       "back" : {
-        "disable" : []
+        "disable" : [1,16]
       }
     },
     "U3" : {
-      "tolerance" : 100000,
+      "tolerance" : 1000,
+      "low_cut" : 300,
       "front" : {
         "disable" : []
       },
       "back" : {
-        "disable" : []
+        "disable" : [7]
       }
     },
     "U4" : {
@@ -35,7 +36,7 @@
         "disable" : []
       },
       "back" : {
-        "disable" : []
+        "disable" : [3,6,7,13]
       }
     }
   },
