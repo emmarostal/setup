@@ -7,18 +7,18 @@
     },
     "U1" : {
       "front" : {
-        "disable" : [3,5,7,11]
+        "disable" : []
       },
       "back" : {
-        "disable" : [8,10]
+        "disable" : []
       }
     },
     "U2" : {
       "front" : {
-        "disable" : [5,7,11]
+        "disable" : []
       },
       "back" : {
-        "disable" : [1,16]
+        "disable" : []
       }
     },
     "U3" : {
@@ -28,7 +28,7 @@
         "disable" : []
       },
       "back" : {
-        "disable" : [7]
+        "disable" : []
       }
     },
     "U4" : {
@@ -36,7 +36,7 @@
         "disable" : []
       },
       "back" : {
-        "disable" : [3,6,7,13]
+        "disable" : []
       }
     }
   },
