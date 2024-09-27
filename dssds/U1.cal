@@ -1,46 +1,46 @@
 # AUSAlib version: 17.1
 # Calibrator version: 2.0
-# Calibrator arguments: Calibrator --gui --eloss --low-threshold 200 -r 3 -b 13 -d U1 -k setup/calibration/4a.json
+# Calibrator arguments: Calibrator --gui --eloss --low-threshold 200 -r 1 -b 13 -d U1 -k ISOLDE4a_MAINPEAKS.json
 # Input files: 
-#	unpackedAUSAnew/run_212.root
+#	run_212.root
 # Calibration of U1
-# Performed @ 2024-09-25 09:20
+# Performed @ 2024-04-03 09:46
 # Performed by jeppe on jeppe-ThinkPad-T14-Gen-4
 # Front
--12.3289 1.19559
--13.4844 1.20483
--13.3461 1.15616
--12.2493 1.19582
--12.4104 1.22676
+5.78305 1.18379
+1.15807 1.18289
+-2.15021 1.13477
+-5.77072 1.20168
 # Slope or offset was either NaN or Inf and has been set to 0.0!
 0.0 0.0
--14.4972 1.20465
--11.4641 1.18261
--10.2102 1.18873
+-10.5316 1.20645
 # Slope or offset was either NaN or Inf and has been set to 0.0!
 0.0 0.0
--5.63503 1.20586
+-15.0025 1.18944
+-16.6908 1.18342
+-19.4376 1.20543
 # Slope or offset was either NaN or Inf and has been set to 0.0!
 0.0 0.0
-1.20225 1.20084
--2.28099 1.13624
--4.59333 1.187
-20.9353 1.18528
+-15.5656 1.22716
+-15.0756 1.19616
+-17.5976 1.15678
+-16.9496 1.20528
+-15.995 1.19614
 # Back
--0.477719 1.14347
--0.292714 1.20656
--12.5503 1.1625
--6.47106 1.14313
--6.26725 1.21173
--5.20628 1.14305
--1.442 1.17705
+-9.50428 1.14451
+-8.79374 1.20772
+-20.5629 1.16344
+-14.1701 1.14411
+-13.6519 1.21273
+-10.7687 1.14378
+-7.51098 1.17786
 # Slope or offset was either NaN or Inf and has been set to 0.0!
 0.0 0.0
--10.167 1.20463
--42.1816 1.17812
-24.4759 1.17405
--11.0885 1.16601
-26.0205 1.18459
--78.382 1.17037
-29.4975 1.12793
--30.6925 1.18771
+-13.1308 1.205
+-46.2731 1.17877
+15.8416 1.17547
+-12.1741 1.16611
+25.2006 1.18472
+-79.9124 1.17071
+30.7601 1.12783
+-32.5601 1.18825
