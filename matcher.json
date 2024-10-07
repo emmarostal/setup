@@ -7,36 +7,44 @@
     },
     "U1" : {
       "front" : {
-        "disable" : [3,5,7,11]
+        "disable" : [3,5,7,11],
+        "tdc_offset": "TDC/TDC_U1F.dat"
       },
       "back" : {
-        "disable" : [8,10]
+        "disable" : [8,10],
+        "tdc_offset": "TDC/TDC_U1B.dat"
       }
     },
     "U2" : {
       "front" : {
-        "disable" : [5,7,11]
+        "disable" : [5,7,11],
+        "tdc_offset": "TDC/TDC_U2F.dat"
       },
       "back" : {
-        "disable" : [1,16]
+        "disable" : [1,16],
+        "tdc_offset": "TDC/TDC_U2B.dat"
       }
     },
     "U3" : {
       "tolerance" : 1000,
       "low_cut" : 300,
       "front" : {
-        "disable" : []
+        "disable" : [],
+        "tdc_offset": "TDC/TDC_U3F.dat"
       },
       "back" : {
-        "disable" : [7]
+        "disable" : [7],
+        "tdc_offset": "TDC/TDC_U3B.dat"
       }
     },
     "U4" : {
       "front" : {
-        "disable" : []
+        "disable" : [],
+        "tdc_offset": "TDC/TDC_U4F.dat"
       },
       "back" : {
-        "disable" : [3,6,7,13]
+        "disable" : [3,6,7,13],
+        "tdc_offset": "TDC/TDC_U4B.dat"
       }
     }
   },
@@ -54,6 +62,18 @@
 		"tdc_offset": "TDC/TDC_B3.dat"
 	  },
 	    "B4" : {
+		"tdc_offset": "TDC/TDC_B4.dat"
+	  },
+	      "B1S" : {
+	"tdc_offset": "TDC/TDC_B1.dat"
+	  },
+	  "B2S" : {
+		"tdc_offset": "TDC/TDC_B2.dat"
+	  },
+	    "B3S" : {
+		"tdc_offset": "TDC/TDC_B3.dat"
+	  },
+	    "B4S" : {
 		"tdc_offset": "TDC/TDC_B4.dat"
 	  },
 	    "I2" : {
